@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Yanez</h1>
-<h3 align="center">A passionate iOS developer from Cuba but Living at Nicaragua</h3>
+<h3 align="center">A passionate guy from Cuba but living in Nicaragua</h3>
 
 - 🔭 I’m currently working on **my own Projects**
 
